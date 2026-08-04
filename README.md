@@ -43,3 +43,6 @@ The onboard user button toggles the external LED.
 - EXTI button interrupt
 - `volatile` variables
 - Non-blocking timing
+
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-04 at 22 17 32" src="https://github.com/user-attachments/assets/c39108ae-4895-41d8-8434-2b879648a7db" />
