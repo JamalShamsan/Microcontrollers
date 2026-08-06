@@ -1,8 +1,8 @@
-# STM32 Ultrasonic Parking Assistance System
 
 A compact parking-assistance project built with the **STM32 NUCLEO-F401RE**, an **HC-SR04 ultrasonic sensor**, an **SSD1306 OLED display**, and an **active buzzer**.
 
 The system measures the distance to an obstacle, shows the result on the OLED, prints diagnostic information through UART, and generates different buzzer warnings depending on the measured distance.
+<img width="2000" height="1500" alt="WhatsApp Image 2026-08-07 at 00 07 12" src="https://github.com/user-attachments/assets/6a5c8e02-b52f-4329-91c4-c84f6c048929" />
 
 ---
 
@@ -234,3 +234,10 @@ Core/
 ## Project Title
 
 **STM32 Ultrasonic Parking Assistance System with OLED and Active Buzzer**
+
+<img width="1500" height="2000" alt="WhatsApp Image 2026-08-07 at 00 07 21" src="https://github.com/user-attachments/assets/7230edcd-ee55-477a-a6ba-8a95ad983c73" />
+
+
+
+
+
