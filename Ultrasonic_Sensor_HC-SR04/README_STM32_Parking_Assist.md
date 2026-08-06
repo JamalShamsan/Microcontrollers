@@ -1,4 +1,4 @@
-# STM32 Ultrasonic Parking Assistance System
+<img width="2000" height="1500" alt="WhatsApp Image 2026-08-07 at 00 07 12" src="https://github.com/user-attachments/assets/1ba0cbe0-f3f8-4957-861b-60cc49dcec12" /># STM32 Ultrasonic Parking Assistance System
 
 A compact parking-assistance project built with the **STM32 NUCLEO-F401RE**, an **HC-SR04 ultrasonic sensor**, an **SSD1306 OLED display**, and an **active buzzer**.
 
@@ -234,3 +234,12 @@ Core/
 ## Project Title
 
 **STM32 Ultrasonic Parking Assistance System with OLED and Active Buzzer**
+
+<img width="1500" height="2000" alt="WhatsApp Image 2026-08-07 at 00 07 21" src="https://github.com/user-attachments/assets/7230edcd-ee55-477a-a6ba-8a95ad983c73" />
+<img width="1500" height="2000" alt="WhatsApp Image 2026-08-07 at 00 07 21" src="https://github.com/user-attachments/assets/0a142238-262a-439c-a897-16fd9f6888c5" />
+
+
+<img width="2000" height="1500" alt="WhatsApp Image 2026-08-07 at 00 07 12" src="https://github.com/user-attachments/assets/47cf6cd6-8957-47a1-86e6-e5d64ee4826b" />
+
+
+
